@@ -5,3 +5,6 @@
 [submodule "metamisc"]
 	path = metamisc
 	url = https://github.com/smartdata-analysis-and-statistics/metamisc
+[submodule "precmed"]
+	path = precmed
+	url = https://github.com/smartdata-analysis-and-statistics/precmed
